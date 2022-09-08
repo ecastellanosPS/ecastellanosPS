@@ -1,5 +1,5 @@
 - 👋 Hola! Mi nombre es Enrique
-- 🌱 Desarrollador de Sistema y Estudiante de la Licenciatura en Psicología
+- 🌱 Desarrollador de sistemas y estudiante de la licenciatura en Psicología
 - 💞️ Colaboro con la empresa: PasteurSoft y también creo mis propias aplicaciones de escritorio
 - 📫 Pueden Contactarme por whatsapp:  +521 33 14093701
 por email a: ctigdl@hotmail.com 
