@@ -1,6 +1,6 @@
 - 👋 Hola! Mi nombre es Enrique
-- 🌱 Desarrollador de sistemas y estudiante de la licenciatura en Psicología
-- 💞️ Colaboro con la empresa: PasteurSoft y también creo mis propias aplicaciones de escritorio
+- 🌱 Desarrollador de sistemas y licenciado en psicología
+- 💞️ Colaboro con la empresa: PasteurSoft y también creo mis propias aplicaciones de escritorio (retrodev)
 - 📫 Pueden Contactarme por whatsapp:  +521 33 14093701
 por email a: ecastellanosflores@gmail.com 
 <!---
